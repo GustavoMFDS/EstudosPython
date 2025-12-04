@@ -56,7 +56,8 @@ python nome_do_arquivo.py
 Este repositório está em constante evolução.
 Novos exercícios e projetos são adicionados conforme avanço nos estudos.
 ## Autor
-Gustavo Marques Fernandes de Sousa
+Gustavo Marques Fernandes de Sousa.
+
 Estudante de Engenharia da Computação e apaixonado por aprender e aplicar Python.
 ## Observações
 Este repositório não é apenas um conjunto de códigos, mas um diário de aprendizado.
